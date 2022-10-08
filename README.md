@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ayush Pandey
 - 👀 I’m interested in Coding and Data Analysis
-- 🌱 I’m currently learning Machine Learning For Data Science
+- 🌱 I’m currently updating my profile for Data Engineering
 - 💞️ I’m looking to collaborate on Data Analysis Projects
 
 <!---
